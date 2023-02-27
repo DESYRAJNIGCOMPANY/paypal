@@ -3,5 +3,5 @@ Yt
 Barr
 Barakat
 iliam
-boss
+ceo
 manager
